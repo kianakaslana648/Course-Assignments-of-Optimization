@@ -11,7 +11,7 @@ $\quad$• Constrained Optimization: PCA, LASSO, Ridge, etc.
 
 $\quad$• Convex Programming: Graphical LASSO, Regularized Logistic Regression, Support Vector Machines, etc.
 
-$\quad$• Scalable algorithms: LASSO/GLASSO, Non-negative matrix factorization, Gaussian mixture models, etc.
+$\quad$• Scalable algorithms: LASSO/GLASSO, Non-negative Matrix Factorization, Gaussian Mixture Models, etc.
 
 $\quad$• Deep Neural Network Optimizer: ADAM.
 

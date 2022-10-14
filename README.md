@@ -5,7 +5,7 @@
 ### Topics
 $\quad$• Theories: KKT Conditions(Duality), Generalized Chain Rules, Implicit Function Theorems, etc.
 
-$\quad$• Gradient Methods: Steepest Gradient Descent, Newton's method, Stochastic Gradient Descent, etc.
+$\quad$• Gradient Methods: Steepest Gradient Descent, Newton's Method, Stochastic Gradient Descent, etc.
 
 $\quad$• Constrained Optimization: PCA, LASSO, Ridge, etc.
 
